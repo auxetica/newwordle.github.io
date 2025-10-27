@@ -1,0 +1,17 @@
+body {
+  margin: auto;
+  font-family: serif;
+  background-color: #121213;
+}
+
+h1, p {
+  margin: auto;
+  font-family: serif;
+  color: white;
+  text-align: center;
+}
+
+form{
+  text-align: center;
+  padding: 10px;
+}
